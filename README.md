@@ -25,7 +25,7 @@ pip install ultralytics
   
 ネットワークが無い環境は、「AIR-Stick WiFi（株式会社ニッチカンパニー社）」等を使用して下さい。  
 電源が無い環境では、ソーラーバッテリーを使用して下さい。  
-rootのパスワードを設定して下さい。
+rootのパスワードを設定して下さい。  
 リモートで管理する場合は、オープンソースのネットワークソフトウェア、SoftEther VPNを使用して下さい（ https://www.vpnazure.net/ja/ https://kone-life.com/367/ ）。  
 SoftEther VPNの管理は、SoftEtherのサーバー管理ツール、Pi-Appsからbox86・box64・wineをインストールして下さい（4Kページサイズカーネルへ切り替えて下さい）。  
 管理マネージャー接続例１：cd vpnsmgr  
