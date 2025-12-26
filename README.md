@@ -7,7 +7,7 @@
   
 「ＫＵＭＡ　ＭＩＲＵ」のyolov11（ncnn）バージョンです（Paspberry Pi5でOpenVINO版を使用するとメモリーリークが発生しハングアップします）。  
 Paspberry Pi5用に調整しました。  
-Paspberry Pi5は低コストで、低消費電力なシステムです。  
+Paspberry Pi5は低コストで、低消費電力なシステムです（メモリー４Ｇモデルで問題なく稼働出来ます）。  
 GPU無しでも、非常に高速に動作します。  
 詳細については、「ＫＵＭＡ　ＭＩＲＵ」を確認して下さい。  
 https://github.com/DAIKICHI-PSC/KUMA-MIRU  
