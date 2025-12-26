@@ -1,0 +1,10 @@
+[熊を検出]                                 メールの件名     
+[熊を検出しました。写真を確認して下さい。] メールの本文     
+[daiya.seimitsu@gmail.com]                 送信元のメールアドレス     
+[yusuke_oya@i.softbank.jp]                 送信先のメールアドレス     
+[]                                         複数人にメールを送信する為のCC（メールアドレス間は,で区切る）     
+[ibnm pgfd shhp gvdg]                      smtpのパスワード（googleの場合はアプリパスワードを取得して設定して下さい https://myaccount.google.com/apppasswords ）     
+[smtp.gmail.com]                           メールサーバーのアドレス（gmailの場合はsmtp.gmail.com）     
+[465]                                        メールサーバーのポート番号（gmailは465）     
+[1]                                        サーバーとのSSL通信する場合は1にする（通常のメールサーバーは殆どの場合0で、gmailのサーバーは1にする）     
+[120]                                      メールする間隔を秒単位で指定（0はオフ）     
