@@ -27,7 +27,8 @@ pip install ultralytics
 電源が無い環境では、ソーラーバッテリーを使用して下さい。  
 rootのパスワードを設定して下さい。  
 リモートで管理する場合は、オープンソースのネットワークソフトウェア、SoftEther VPNを使用して下さい（ https://www.vpnazure.net/ja/ https://kone-life.com/367/ ）。  
-SoftEther VPNの管理は、SoftEtherのサーバー管理ツール、Pi-Appsからbox86・box64・wineをインストールして下さい（4Kページサイズカーネルへ切り替えて下さい）。 
+SoftEther VPNの管理は、先にPi-Appsからbox86・box64・wineをインストールして下さい（4Kページサイズカーネルへ切り替えて下さい）。 
+その後、SoftEtherのサーバー管理ツールをインストールして下さい。 
 Pi-Appsがメニューにない場合は、以下のコマンドを実行して、メニューに追加して下さい。  
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash  
 管理マネージャー接続例１：cd vpnsmgr  
